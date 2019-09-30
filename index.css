@@ -1,0 +1,29 @@
+body {
+    background: lightcoral;
+  }
+  button {
+    color: blue;
+    background: beige;
+    width: 140px;
+    height: 30px;
+    font-weight: bold;
+  
+  }
+  .calculator-box {
+    width: 210px;
+    height: 300px;
+    background: lightseagreen;
+    border: 10px solid brown;
+    margin: 0 auto;
+    margin-top: 40px;
+  }
+  #value1 {
+    margin-top: 15px;
+  }
+  
+  
+  
+  #calculate {
+    margin-left: 40px;
+    margin-top: 15px;
+  }
